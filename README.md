@@ -35,8 +35,8 @@ Generate custom memes using AI! Just input a situation, and get a humorous AI-ge
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vipasha-dev/MemeGeneratorAI.git
-cd MemeGeneratorAI
+git clone https://github.com/Anchalde/Hugging-Face-Meme-Generator.git
+cd Hugging-Face-Meme-Generator
 ```
 
 2. Install the required dependencies:
@@ -79,7 +79,7 @@ MemeGeneratorAI/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/vipasha-dev/MemeGeneratorAI/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Anchalde/Hugging-Face-Meme-Generator/issues).
 
 ## 📝 License
 
@@ -91,4 +91,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/vipasha-dev">Vipasha</a></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/Anchalde/">Anchal devi</a></p>
